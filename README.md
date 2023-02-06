@@ -10,6 +10,8 @@ Technologies used to make this app are :
  
 Live Link for the deployed app on firebase : 
  - [Live Link](https://mymoney-d12f5.web.app)
+ - TEST CASE : use email : mario@gmail.com 
+    and password : test12345 for easy login
  
  
 ## Demo :
